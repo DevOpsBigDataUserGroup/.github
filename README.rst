@@ -25,7 +25,7 @@ through the issues_.
 If you'd like to see a presentation about something and it isn't there, feel
 free to create a new issue!
 
-.. _issues: https://github.com/DevOps-House/dbug/issues
+.. _issues: https://github.com/DevOpsBigDataUserGroup/welcome/issues
 
 Submitting a talk
 =================
@@ -36,7 +36,7 @@ The discussion regarding dates will take place in the GitHub issue.
 
 Otherwise, submissions might be kept for the next meetup.
 
-.. _here: https://github.com/DevOps-House/dbug/issues/new/
+.. _here: https://github.com/DevOpsBigDataUserGroup/welcome/issues/new/
 .. _presentations: https://github.com/DevOps-House/dbug/tree/main/presentations
 
 Contributing
